@@ -1,5 +1,5 @@
 # NoteApp
-A simple Note taking Website using HTML, CSS & JS
+A simple Note taking Website using HTML, CSS & JS  
 Reference: [Great Stack - NoteApp](https://youtu.be/n3U4jFbp05M?si=z8viqn5yP21HnNpA)
 
 ## demo 
